@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="show_dev_countdown">
-        <item quantity="other">只需 %1$d 步操作即可进入开发者模式。</item>
-        <item quantity="one">只需 %1$d 步操作即可进入开发者模式。</item>
+        <item quantity="other">Теперь вы %1$d шагах от того, чтобы быть разработчиком.</item>
+        <item quantity="one">Теперь вы %1$d шаге от того, чтобы быть разработчиком.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">密码必须包含至少 %d 个字母。</item>
-        <item quantity="one">密码必须包含至少 1 个字母。</item>
+        <item quantity="other">Пароль должен содержать не менее %d письма.</item>
+        <item quantity="one">Пароль должен содержать не менее 1 письмо.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">密码必须包含至少 %d 个小写字母。</item>
-        <item quantity="one">密码必须包含至少 1 个小写字母。</item>
+        <item quantity="other">Пароль должен содержать не менее %d строчные буквы.</item>
+        <item quantity="one">Пароль должен содержать не менее 1 строчную букву.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">密码必须包含至少 %d 个大写字母。</item>
-        <item quantity="one">密码必须包含至少 1 个大写字母。</item>
+        <item quantity="other">Пароль должен содержать не менее %d прописные буквы.</item>
+        <item quantity="one">Пароль должен содержать не менее 1 заглавную букву.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">密码必须包含至少 %d 个数字。</item>
-        <item quantity="one">密码必须包含至少 1 个数字。</item>
+        <item quantity="other">Пароль должен содержать не менее %d цифр.</item>
+        <item quantity="one">Пароль должен содержать не менее 1 численное цифру.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">密码必须包含至少 %d 个特殊符号。</item>
-        <item quantity="one">密码必须包含至少 1 个特殊符号。</item>
+        <item quantity="other">Пароль должен содержать не менее %d специальные символы.</item>
+        <item quantity="one">Пароль должен содержать не менее 1 специальный символ.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">密码必须包含至少 %d 个非字母字符。</item>
-        <item quantity="one">密码必须包含至少 1 个非字母字符。</item>
+        <item quantity="other">Пароль должен содержать не менее %d, не являющиеся буквами символов.</item>
+        <item quantity="one">Пароль должен содержать не менее 1 не-письмо характер.</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
-        <item quantity="other">%d个应用可以读取通知</item>
-        <item quantity="one">%d个应用可以读取通知</item>
+        <item quantity="other">%d приложения могут читать уведомления</item>
+        <item quantity="one">%d приложение может читать уведомления</item>
     </plurals>
     <plurals name="wrong_pin_code">
-        <item quantity="other">SIM 卡 PIN 码不正确，您还有%d次尝试机会。</item>
-        <item quantity="one">SIM 卡 PIN 码不正确，您还有%d次尝试机会。如果仍然失败，则必须联系运营商帮您解锁设备。</item>
+        <item quantity="other">Неправильное PIN-код SIM-код, у вас есть %d оставшиеся попытки.</item>
+        <item quantity="one">Неправильное PIN-код SIM-код, у вас есть %d оставшуюся попытку, прежде чем вы должны обратиться к своему оператору, чтобы разблокировать устройство.</item>
     </plurals>
     <plurals name="print_search_result_count_utterance">
-        <item quantity="other">找到%1$s台打印机</item>
-        <item quantity="one">找到%1$s台打印机</item>
+        <item quantity="other">найдено %1$s принтеры</item>
+        <item quantity="one">%1$s принтер найдено</item>
     </plurals>
 </resources>
