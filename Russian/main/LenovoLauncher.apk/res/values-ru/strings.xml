@@ -48,7 +48,7 @@
     <string name="com_lenovo_lsf_lenovouser_login_error20">Неизвестная ошибка, код ошибки:</string>
     <string name="com_lenovo_lsf_lenovouser_userinfo_text16">Выйти из Lenovo ID</string>
     <string name="com_lenovo_lsf_lenovouser_userinfo_text17">Вы уверены, что хотите выйти из Lenovo ID?</string>
-    <string name="com_lenovo_lsf_lenovouser_userinfo_logouting">Выход из системы, пожалуйста подождите...
+    <string name="com_lenovo_lsf_lenovouser_userinfo_logouting">Выход из системы, пожалуйста подождите...</string>
     <string name="com_lenovo_lsf_lenovouser_userinfo_logouts">Lenovo ID - выход выполнен</string>
     <string name="com_lenovo_lsf_lenovouser_register_error1">Формат имени пользователя не является правильным</string>
     <string name="com_lenovo_lsf_lenovouser_register_error2">Это Lenovo ID уже существует</string>
@@ -79,7 +79,7 @@
     <string name="com_lenovo_lsf_psauthen_text19">Запрос доступа</string>
     <string name="com_lenovo_lsf_psauthen_text20">Не возможно зайти сразу под двумя аккаунтами</string>
     <string name="com_lenovo_lsf_psauthen_error1">Ошибка сетевого соединения. Повторите попытку.</string>
-    <string name="com_lenovo_lsf_psauthen_error2">«Не могу войти на аккаунт PID»</string>
+    <string name="com_lenovo_lsf_psauthen_error2">"Не могу войти на аккаунт PID"</string>
     <string name="com_lenovo_lsf_psauthen_error3">Пользователь не существует</string>
     <string name="com_lenovo_lsf_psauthen_error4">Ошибка пароля</string>
     <string name="com_lenovo_lsf_psauthen_error5">Пожалуйста, активируйте свой аккаунт</string>
@@ -102,7 +102,7 @@
     <string name="com_lenovo_lsf_login_string_sendrequest">Отправка запроса входа...</string>
     <string name="com_lenovo_lsf_login_string_verifing">Выполняется вход...</string>
     <string name="com_lenovo_lsf_login_string_agree">Вход подтверждает, что вы согласны с</string>
-    <string name="com_lenovo_lsf_login_string_protocol">Вход подтверждает, что вы согласны с <u>Условиями обслуживания</u>
+    <string name="com_lenovo_lsf_login_string_protocol">Вход подтверждает, что вы согласны с <u>Условиями обслуживания</u></string>
     <string name="com_lenovo_lsf_register_string_login">Войти</string>
     <string name="com_lenovo_lsf_register_string_haveid" />
     <string name="com_lenovo_lsf_register_string_register">Регистрация</string>
@@ -115,7 +115,7 @@
     <string name="com_lenovo_lsf_register_string_verifycode">Проверочный код</string>
     <string name="com_lenovo_lsf_register_string_changeanother">Изменить</string>
     <string name="com_lenovo_lsf_register_string_agree">Я согласен с</string>
-    <string name="com_lenovo_lsf_register_string_protocol">Я согласен с <u>Условиями предоставления услуг</u>
+    <string name="com_lenovo_lsf_register_string_protocol">Я согласен с <u>Условиями предоставления услуг</u></string>
     <string name="com_lenovo_lsf_register_string_accounthint">abc@example.com</string>
     <string name="com_lenovo_lsf_register_string_setpwdhint">4-20 символов</string>
     <string name="com_lenovo_lsf_register_string_verifycodehint">Введите следующий код</string>
@@ -341,7 +341,7 @@
     <string name="permlab_write_settings">Записать настройки Рабочего стола и ярлыков</string>
     <string name="permdesc_write_settings">Приложение сможет изменять настройки и ярлыки на Рабочем столе.</string>
     <string name="gadget_error_text">Проблема загрузки виджета</string>
-    <string name="uninstall_system_app_text">«Это системное приложение и не может быть удалено.»</string>
+    <string name="uninstall_system_app_text">"Это системное приложение и не может быть удалено."</string>
     <string name="dream_name">Лаунчер Ракета</string>
     <string name="folder_hint_text">Безымянная папка</string>
     <string name="workspace_description_format">Рабочий стол %1$d</string>
@@ -358,7 +358,7 @@
     <string name="workspace_cling_move_item">Нажмите и удерживайте фон для выбора обоев, виджетов и настроек.</string>
     <string name="all_apps_cling_title">Выберите какие-нибудь приложения</string>
     <string name="all_apps_cling_add_item">Чтобы добавить приложение на Рабочий стол, нажмите и удерживайте его.</string>
-    <string name="folder_cling_title">«Вот папка»</string>
+    <string name="folder_cling_title">"Вот папка"</string>
     <string name="folder_cling_create_folder">Чтобы создать такую, нажмите и удерживайте приложение, а затем переместите его на другое.</string>
     <string name="cling_dismiss">OK</string>
     <string name="dummy_custom_cling_error_message">Ошибка: custom workspace layout passed in but custom cling was not overwritten</string>
@@ -511,9 +511,9 @@
     <string name="version_update_label">Обновление версии</string>
     <string name="version_update_sd">Вставьте SD-карту.</string>
     <string name="version_update_menu">Обновление версии вручную</string>
-    <string name="version_update_confirm_auto">«Старт обновления версии, вы хотите продолжить?
+    <string name="version_update_confirm_auto">"Старт обновления версии, вы хотите продолжить?
 Пожалуйста, проверьте настройки сетевого подключения.
-Пожалуйста, подключитесь к сети».</string>
+Пожалуйста, подключитесь к сети."</string>
     <string name="version_update_not_prompt">Не запрашивать</string>
     <string name="version_update_query_version">Подождите, пожалуйста, при запросе новой версии...</string>
     <string name="confirm_network_open">Пожалуйста, проверьте, что Настройки -> Дополнительные параметры -> Сетевое подключение, позволяет Lenovo Лаунчеру получать данные</string>
