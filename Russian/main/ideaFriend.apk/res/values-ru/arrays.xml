@@ -171,108 +171,106 @@
         <item>Hong Kong +852</item>
     </string-array>
     <string-array name="asia">
-        <item>尼泊尔 +977</item>
-        <item>阿富汗 +93</item>
-        <item>阿联酋 +971</item>
-        <item>阿曼 +968</item>
-        <item>阿塞拜疆 +944</item>
-        <item>不丹 +975</item>
-        <item>巴基斯坦 +92</item>
-        <item>巴林 +973</item>
-        <item>巴勒斯坦 +970</item>
-        <item>东帝汶 +1</item>
-        <item>菲律宾 +63</item>
-        <item>格鲁吉亚 +995</item>
-        <item>韩国 +82</item>
-        <item>哈萨克斯坦 +7</item>
-        <item>吉尔吉斯斯坦 +996</item>
-        <item>柬埔寨 +855</item>
-        <item>卡塔尔 +974</item>
-        <item>科威特 +965</item>
-        <item>黎巴嫩 +961</item>
-        <item>老挝 +856</item>
-        <item>马尔代夫 +960</item>
-        <item>孟加拉 +880</item>
-        <item>马来西亚 +60</item>
-        <item>日本 +81</item>
-        <item>斯里兰卡 +94</item>
-        <item>沙特阿拉伯 +966</item>
-        <item>土耳其 +90</item>
-        <item>泰国 +66</item>
-        <item>塔吉克斯坦 +992</item>
-        <item>土库曼斯坦 +993</item>
-        <item>文莱 +673</item>
-        <item>乌兹别克斯坦 +998</item>
-        <item>新加坡 +65</item>
-        <item>叙利亚 +963</item>
-        <item>印度 +91</item>
-        <item>约旦 +962</item>
-        <item>印度尼西亚 +62</item>
-        <item>伊朗 +98</item>
-        <item>伊拉克 +964</item>
-        <item>也门 +967</item>
-        <item>亚美尼亚 +374</item>
-        <item>越南 +84</item>
-        <item>以色列 +972</item>
+        <item>Nepal +977</item>
+        <item>Afghanistan +93</item>
+        <item>UAE +971</item>
+        <item>Oman +968</item>
+        <item>Azerbaijan</item> +944</item>
+        <item>Bhutan +975</item>
+        <item>Pakistan +92</item>
+        <item>Bahrain +973</item>
+        <item>Palestine +970</item>
+        <item>East Timor +1</item>
+        <item>Philippines +63</item>
+        <item>Georgia +995</item>
+        <item>Korea +82</item>
+        <item>Kazakhstan +7</item>
+        <item>Kirghizstan +996</item>
+        <item>Cambodia +855</item>
+        <item>Qatar +974</item>
+        <item> Kuwait +965 </ item> 
+        <item> Lebanon +961 </ item> 
+        <item> Laos +856 </ item> 
+        <item> Maldives +960 </ item> 
+        <item> Bangladesh +880 </ item> 
+        <item> Malaysia +60 </ item> 
+        <item> Japan +81 </ item>
+        <item> Sri Lanka +94 </ item> 
+        <item> Saudi Arabia +966 </ item> 
+        <item> Turkey +90 </ item> 
+        <item> Thailand +66 </ item> 
+        <item> Tajikistan +992 </ item> 
+        <item> Turkmenistan +993 </ item> 
+        <item> Brunei +673 </ item> 
+        <item> Uzbekistan +998 </ item> 
+        <item> Singapore +65 </ item> 
+        <item> Syria +963 </ item> 
+        <item> India +91 </ item> 
+        <item> Jordan +962 </ item> 
+        <item> Indonesia +62 </ item> 
+        <item> Iran +98 </ item> 
+        <item> Iraq +964 </ item> 
+        <item> Yemen +967 </ item> 
+        <item> Armenia +374 </ item> 
+        <item> Israel +972 </ item
     </string-array>
     <string-array name="europe">
-        <item>安道尔 +376</item>
-        <item>奥地利 +43</item>
-        <item>阿尔巴尼亚 +355</item>
-        <item>阿尔及利亚 +213</item>
-        <item>爱尔兰 +353</item>
-        <item>安圭拉 +1264</item>
-        <item>爱沙尼亚 +372</item>
-        <item>冰岛 +354</item>
-        <item>白俄罗斯 +375</item>
-        <item>保加利亚 +359</item>
-        <item>波兰 +48</item>
-        <item>比利时 +32</item>
-        <item>波斯尼亚和黑塞哥维那 +387</item>
-        <item>德国 +49</item>
-        <item>丹麦 +45</item>
-        <item>俄罗斯 +7</item>
-        <item>梵蒂冈 +3906698</item>
-        <item>法国 +33</item>
-        <item>芬兰 +358</item>
-        <item>法罗群岛 +298</item>
-        <item>法属波利尼西亚 +689</item>
-        <item>法属圭亚那 +594</item>
-        <item>关岛 +1671</item>
-        <item>瓜德罗普岛 +590</item>
-        <item>格陵兰 +299</item>
-        <item>根西岛 +1</item>
-        <item>荷兰 +31</item>
-        <item>荷属安的列斯群岛 +599</item>
-        <item>捷克 +420</item>
-        <item>克罗地亚 +385</item>
-        <item>罗马尼亚 +40</item>
-        <item>卢森堡 +352</item>
-        <item>立陶宛 +370</item>
-        <item>拉脱维亚 +371</item>
-        <item>列支敦士登 +423</item>
-        <item>曼岛 +1</item>
-        <item>摩尔多瓦 +373</item>
-        <item>摩纳哥 +377</item>
-        <item>马其顿 +389</item>
-        <item>马提尼克岛 +596</item>
-        <item>挪威 +47</item>
-        <item>葡萄牙 +351</item>
-        <item>瑞典 +46</item>
-        <item>瑞士 +41</item>
-        <item>塞尔维亚 +381</item>
-        <item>斯洛伐克 +421</item>
-        <item>斯洛文尼亚 +386</item>
-        <item>圣马力诺 +378</item>
-        <item>塞浦路斯 +357</item>
-        <item>乌克兰 +380</item>
-        <item>西班牙 +34</item>
-        <item>希腊 +30</item>
-        <item>匈牙利 +36</item>
-        <item>意大利 +39</item>
-        <item>英国 +44</item>
-        <item>直布罗陀 +1</item>
-        <item>泽西岛 +1</item>
+        <item> Andorra +376 </ item>
+        <item> Austria +43 </ item>
+        <item> Albania +355 </ item>
+        <item> Algeria +213 </ item>
+        <item> Ireland +353 </ item>
+        <item> Anguilla +1264 </ item>
+        <item> Estonia +372 </ item>
+        <item> Iceland +354 </ item>
+        <item> Belarus +375 </ item>
+        <item> Bulgaria +359 </ item>
+        <item> Poland +48 </ item>
+        <item> Belgium +32 </ item>
+        <item> Bosnia and Herzegovina +387 </ item>
+        <item> Germany +49 </ item>
+        <item> Denmark +45 </ item>
+        <item> Russia +7 </ item>
+        <item> Vatican +3906698 </ item>
+        <item> France +33 </ item>
+        <item> Finland +358 </ item>
+        <item> Faroe Islands +298 </ item>
+        <item> French Polynesia +689 </ item>
+        <item> French Guiana +594 </ item>
+        <item> Guam +1671 </ item>
+        <item> Guadeloupe +590 </ item>
+        <item> Greenland +299 </ item>
+        <item> Guernsey +1 </ item>
+        <item> Netherlands +31 </ item>
+        <item> Netherlands Antilles +599 </ item>
+        <item> Czech Republic +420 </ item>
+        <item> Croatia +385 </ item>
+        <item> Romania +40 </ item>
+        <item> Luxembourg +352 </ item>
+        <item> Lithuania +370 </ item>
+        <item> Latvia +371 </ item>
+        <item> Liechtenstein +423 </ item>
+        <item> Isle of Man +1 </ item>
+        <item> Moldova +373 </ item>
+        <item> Monaco +377 </ item>
+        <item> Macedonia +389 </ item>
+        <item> Martinique +596 </ item>
+        <item> Norway +47 </ item>
+        <item> Sweden +46 </ item>
+        <item> Switzerland +41 </ item>
+        <item> Serbia +381 </ item>
+        <item> Slovakia +421 </ item>
+        <item> Slovenia +386 </ item>
+        <item> San Marino +378 </ item>
+        <item> Cyprus +357 </ item>
+        <item> Ukraine +380 </ item>
+        <item> Spain +34 </ item>
+        <item> Greece +30 </ item>
+        <item> Hungary +36 </ item>
+        <item> Italy +39 </ item>
+        <item> UK +44 </ item>
+        <item> Gibraltar +1 </ item>
+        <item> Jersey +1 </ item>
     </string-array>
     <string-array name="africa">
         <item>安哥拉 +244</item>
