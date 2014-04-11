@@ -273,111 +273,111 @@
         <item> Jersey +1 </ item>
     </string-array>
     <string-array name="africa">
-        <item>安哥拉 +244</item>
-        <item>埃及 +20</item>
-        <item>埃塞俄比亚 +251</item>
-        <item>博茨瓦纳 +267</item>
-        <item>布基纳法索 +226</item>
-        <item>布隆迪 +257</item>
-        <item>贝宁 +229</item>
-        <item>赤道几内亚 +240</item>
-        <item>厄立特里亚 +291</item>
-        <item>佛得角 +238</item>
-        <item>冈比亚 +220</item>
-        <item>津巴布韦 +263</item>
-        <item>吉布提 +253</item>
-        <item>加纳 +233</item>
-        <item>几内亚 +224</item>
-        <item>几内亚比绍 +245</item>
-        <item>加蓬 +241</item>
-        <item>喀麦隆 +237</item>
-        <item>科摩罗 +269</item>
-        <item>肯尼亚 +254</item>
-        <item>利比里亚 +231</item>
-        <item>利比亚 +218</item>
-        <item>莱索托 +266</item>
-        <item>卢旺达 +250</item>
-        <item>马达加斯加 +261</item>
-        <item>马里 +223</item>
-        <item>摩洛哥 +212</item>
-        <item>毛里求斯 +230</item>
-        <item>毛里塔尼亚 +222</item>
-        <item>马拉维 +265</item>
-        <item>莫桑比克 +258</item>
-        <item>南非 +27</item>
-        <item>纳米比亚 +264</item>
-        <item>尼日尔 +227</item>
-        <item>尼日利亚 +234</item>
-        <item>苏丹 +249</item>
-        <item>塞拉利昂 +232</item>
-        <item>索马里 +252</item>
-        <item>塞内加尔 +221</item>
-        <item>塞舌尔 +248</item>
-        <item>斯威士兰 +268</item>
-        <item>突尼斯 +216</item>
-        <item>坦桑尼亚 +255</item>
-        <item>乌干达 +256</item>
-        <item>西撒哈拉 +1</item>
-        <item>科特迪瓦 +225</item>
-        <item>赞比亚 +260</item>
-        <item>乍得 +235</item>
-        <item>中非共和国 +236</item>
+        <item> Angola +244 </ item>
+        <item> Egypt +20 </ item>
+        <item> Ethiopia +251 </ item>
+        <item> Botswana +267 </ item>
+        <item> Burkina Faso +226 </ item>
+        <item> Burundi +257 </ item>
+        <item> Benin +229 </ item>
+        <item> Equatorial Guinea +240 </ item>
+        <item> Eritrea +291 </ item>
+        <item> Cape Verde +238 </ item>
+        <item> Gambia +220 </ item>
+        <item> Zimbabwe +263 </ item>
+        <item> Djibouti +253 </ item>
+        <item> Ghana +233 </ item>
+        <item> Guinea +224 </ item>
+        <item> Bissau +245 </ item>
+        <item> Gabon +241 </ item>
+        <item> Cameroon +237 </ item>
+        <item> Comoros +269 </ item>
+        <item> Kenya +254 </ item>
+        <item> Liberia +231 </ item>
+        <item> Libya +218 </ item>
+        <item> Lesotho +266 </ item>
+        <item> Rwanda +250 </ item>
+        <item> Madagascar +261 </ item>
+        <item> Mali +223 </ item>
+        <item> Morocco +212 </ item>
+        <item> Mauritius +230 </ item>
+        <item> Mauritania +222 </ item>
+        <item> Malawi +265 </ item>
+        <item> Mozambique +258 </ item>
+        <item> South Africa +27 </ item>
+        <item> Namibia +264 </ item>
+        <item> Niger +227 </ item>
+        <item> Nigeria +234 </ item>
+        <item> Sudan +249 </ item>
+        <item> Sierra Leone +232 </ item>
+        <item> Somalia +252 </ item>
+        <item> Senegal +221 </ item>
+        <item> Seychelles +248 </ item>
+        <item> Swaziland +268 </ item>
+        <item> Tunisia +216 </ item>
+        <item> Tanzania +255 </ item>
+        <item> Uganda +256 </ item>
+        <item> Western Sahara +1 </ item>
+        <item> Ivorian +225 </ item>
+        <item> Zambia +260 </ item>
+        <item> Chad +235 </ item>
+        <item> Central African Republic +236 </ item>
     </string-array>
     <string-array name="central_america">
-        <item>伯利兹 +501</item>
+        <item>Belize +501</item>
     </string-array>
     <string-array name="oceanica">
-        <item>澳大利亚 +61</item>
-        <item>巴布亚新几内亚 +675</item>
-        <item>瑙鲁 +674</item>
-        <item>帕劳 +680</item>
-        <item>所罗门群岛 +677</item>
-        <item>萨摩亚 +685</item>
-        <item>汤加 +676</item>
-        <item>特克斯和凯科斯群岛 +1649</item>
-        <item>瓦努阿图 +678</item>
-        <item>危地马拉 +502</item>
-        <item>新喀里多尼亚 +687</item>
-        <item>新西兰 +64</item>
-        <item>牙买加 +1876</item>
-        <item>英属维京群岛 +1284</item>
+    <item> Australia +61 </ item> 
+    <item> Papua New Guinea +675 </ item> 
+    <item> Nauru +674 </ item> 
+    <item> Palau +680 </ item> 
+    <item> Solomon Islands +677 </ item> 
+    <item> Samoa +685 </ item> 
+    <item> Tonga +676 </ item> 
+    <item> Turks and Caicos Islands +1649 </ item> 
+    <item> Vanuatu +678 </ item> 
+    <item> Guatemala +502 </ item> 
+    <item> New Caledonia +687 </ item> 
+    <item> New Zealand +64 </ item> 
+    <item> Jamaica +1876 </ item> 
+    <item> British Virgin Islands +1284 </ item>
     </string-array>
     <string-array name="america">
-        <item>阿根廷 +54</item>
-        <item>阿鲁巴 +297</item>
-        <item>安提瓜和巴布达 +1268</item>
-        <item>巴巴多斯 +1246</item>
-        <item>波多黎各 +1787</item>
-        <item>巴哈马 +1242</item>
-        <item>秘鲁 +51</item>
-        <item>玻利维亚 +591</item>
-        <item>百慕大 +1441</item>
-        <item>巴拿马 +507</item>
-        <item>巴西 +55</item>
-        <item>多米尼克 +1767</item>
-        <item>厄瓜多尔 +593</item>
-        <item>古巴 +53</item>
-        <item>哥伦比亚 +57</item>
-        <item>格林纳达 +1473</item>
-        <item>哥斯达黎加 +506</item>
-        <item>海地 +509</item>
-        <item>洪都拉斯 +504</item>
-        <item>加拿大 +1</item>
-        <item>开曼群岛 +1345</item>
-        <item>美国 +1</item>
-        <item>美属萨摩亚群岛 +684</item>
-        <item>美属维京群岛 +1340</item>
-        <item>蒙特塞拉特岛 +1664</item>
-        <item>墨西哥 +52</item>
-        <item>尼加拉瓜 +505</item>
-        <item>萨尔瓦多 +503</item>
-        <item>圣基茨和尼维斯 +1869</item>
-        <item>苏里南 +597</item>
-        <item>圣卢西亚 +58</item>
-        <item>特立尼达和多巴哥 +1868</item>
-        <item>乌拉圭 +598</item>
-        <item>委内瑞拉 +58</item>
-        <item>智利 +56</item>
+        <item> Argentina +54 </ item>
+        <item> Aruba +297 </ item>
+        <item> Antigua and Barbuda +1268 </ item>
+        <item> Barbados +1246 </ item>
+        <item> Puerto +1787 </ item>
+        <item> Bahamas +1242 </ item>
+        <item> Peru +51 </ item>
+        <item> Bolivia +591 </ item>
+        <item> Bermuda +1441 </ item>
+        <item> Panama +507 </ item>
+        <item> Brazil +55 </ item>
+        <item> Dominica +1767 </ item>
+        <item> Ecuador +593 </ item>
+        <item> Cuba +53 </ item>
+        <item> Colombia +57 </ item>
+        <item> Grenada +1473 </ item>
+        <item> Costa Rica +506 </ item>
+        <item> Haiti +509 </ item>
+        <item> Honduras +504 </ item>
+        <item> Canada +1 </ item>
+        <item> Cayman Islands +1345 </ item>
+        <item> United States +1 </ item>
+        <item> Samoa Islands +684 </ item>
+        <item> U.S. Virgin Islands +1340 </ item>
+        <item> Montserrat +1664 </ item>
+        <item> Mexico +52 </ item>
+        <item> Nicaragua +505 </ item>
+        <item> Salvador +503 </ item>
+        <item> Saint Kitts and Nevis +1869 </ item>
+        <item> Suriname +597 </ item>
+        <item> Lucia +58 </ item>
+        <item> Trinidad and Tobago +1868 </ item>
+        <item> Uruguay +598 </ item>
+        <item> Venezuela +58 </ item>
+        <item> Chile +56 </ item>
     </string-array>
     <integer-array name="country_mcc">
         <item>202</item>
