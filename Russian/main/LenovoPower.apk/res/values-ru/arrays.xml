@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mainMenuGroupTitleArray">
+        <item>@string/settings_title</item>
+        <item>@string/settings_title_tools</item>
+        <item>@string/settings_title_set</item>
+    </string-array>
+    <string-array name="mainMenuChildNameArray1">
+        <item>@string/setttings_screen</item>
+        <item>@string/setttings_app</item>
+        <item>@string/setttings_cut_connect</item>
+        <item>@string/setttings_study</item>
+    </string-array>
+    <string-array name="mainMenuSmartChildNameArray1">
+        <item>@string/setttings_cut_connect</item>
+        <item>@string/setttings_study</item>
+    </string-array>
+    <string-array name="mainMenuChildNameArray2">
+        <item>@string/settings_consume</item>
+        <item>@string/settings_frozen</item>
+        <item>@string/settings_eye_keeper</item>
+    </string-array>
+    <string-array name="mainMenuChildNameArray3">
+        <item>@string/settings_notification</item>
+        <item>@string/settings_updater</item>
+        <item>@string/settings_about</item>
+    </string-array>
+    <string-array name="ringtone_value">
+        <item>@string/ringtone_mute</item>
+        <item>@string/ringtone_vibrate</item>
+        <item>@string/ringtone_ringing</item>
+    </string-array>
+    <string-array name="screen_brightness_entries">
+        <item>Min</item>
+        <item>30%</item>
+        <item>60%</item>
+        <item>Max</item>
+        <item>Auto</item>
+    </string-array>
+    <string-array name="advancedSetting_lowCapacity_value">
+        <item>Less than 10%</item>
+        <item>Less than 20%</item>
+        <item>Less than 30%</item>
+    </string-array>
+    <string-array name="wifi_timeout_entries">
+        <item>1 minute</item>
+        <item>2 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+    </string-array>
+    <string-array name="netWakeup_during">
+        <item>1 hour</item>
+        <item>2 hour</item>
+        <item>3 hour</item>
+    </string-array>
+    <string-array name="netWakeup_delay">
+        <item>5 mins</item>
+        <item>15 mins</item>
+        <item>25 mins</item>
+        <item>35 mins</item>
+        <item>45 mins</item>
+    </string-array>
+    <string-array name="netWakeup_lasting">
+        <item>5 mins</item>
+        <item>15 mins</item>
+        <item>30 mins</item>
+    </string-array>
+</resources>

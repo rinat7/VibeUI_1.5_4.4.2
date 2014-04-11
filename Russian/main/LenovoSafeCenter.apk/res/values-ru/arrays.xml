@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_pwd_question">
+        <item>What is your primary school?</item>
+        <item>What is your favourite fruit?</item>
+        <item>"When is my father's birthday?"</item>
+        <item>What is my favourite song?</item>
+        <item>"What is my pet's name?"</item>
+    </string-array>
+    <string-array name="menu_items">
+        <item>Settings</item>
+        <item>Update</item>
+        <item>Feedback</item>
+        <item>Help</item>
+        <item>About</item>
+        <item>Recommend</item>
+    </string-array>
+    <string-array name="traffic_month_sheet_date">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="traffic_notification_display_mode">
+        <item>Show the connecting SIM</item>
+        <item>Show SIM1 card</item>
+        <item>Show SIM2 card</item>
+    </string-array>
+    <string-array name="traffic_correct_cycle_time">
+        <item>Everyday</item>
+        <item>Every 3 days</item>
+        <item>Every week</item>
+        <item>Close</item>
+    </string-array>
+    <string-array name="ipcustomer">
+        <item>12593</item>
+        <item>17951</item>
+        <item>User-defined</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>Import from call logs</item>
+        <item>Import from messages</item>
+        <item>Import from contacts</item>
+        <item>Add manually</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>Smart block</item>
+        <item>Block blacklist only</item>
+        <item>Allow contacts only</item>
+        <item>Allow whitelist only</item>
+    </string-array>
+    <string-array name="block_list_entries">
+        <item>Return busy</item>
+        <item>Return turn-off</item>
+        <item>Return shutdown</item>
+        <item>Return null</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>Answer contacts only</item>
+        <item>Answer whitelist only</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>Import from call logs</item>
+        <item>Import from messages</item>
+        <item>Import from contacts</item>
+        <item>Add manually</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>Answer</item>
+        <item>Reject</item>
+        <item>Reject call with SMS</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Lock when screen sleeping</item>
+        <item>Lock when exiting this app</item>
+        <item>Lock after sleeping screen for 5 minutes</item>
+    </string-array>
+    <string-array name="private_quick_add">
+        <item>Import from call logs</item>
+        <item>Import from messages</item>
+        <item>Import from contacts</item>
+        <item>Add manually</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>No alert</item>
+        <item>Notification bar alert</item>
+        <item>Notification + alert tone</item>
+        <item>Notification + vibration</item>
+    </string-array>
+</resources>
