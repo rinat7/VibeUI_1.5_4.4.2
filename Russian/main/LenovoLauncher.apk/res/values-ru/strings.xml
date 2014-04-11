@@ -516,8 +516,7 @@
 Пожалуйста, подключитесь к сети».</string>
     <string name="version_update_not_prompt">Не запрашивать</string>
     <string name="version_update_query_version">Подождите, пожалуйста, при запросе новой версии...</string>
-    <string name="confirm_network_open">Please check the Preferences -> More settings -> Network connection, allows Lenovo Launcher to the network to obtain data？</string>
-	<string name="confirm_network_open">Пожалуйста, проверьте, что Настройки -> Дополнительные параметры -> Сетевое подключение, позволяет Lenovo Лаунчеру получать данные</string>
+    <string name="confirm_network_open">Пожалуйста, проверьте, что Настройки -> Дополнительные параметры -> Сетевое подключение, позволяет Lenovo Лаунчеру получать данные</string>
     <string name="boot_backup_desktop_fail">Резервное копирование Рабочего стола не удалось</string>
     <string name="boot_backup_desktop_success">Успешное резервное копирование Рабочего стола</string>
     <string name="grid_empty_error">Ошибка получения данных, проверьте сеть.</string>
