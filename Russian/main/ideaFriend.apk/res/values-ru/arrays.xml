@@ -325,24 +325,24 @@
     </string-array>
     <string-array name="central_america">
         <item>Belize +501</item>
-    </string-array>
-    <string-array name="oceanica">
-    <item> Australia +61 </ item> 
-    <item> Papua New Guinea +675 </ item> 
-    <item> Nauru +674 </ item> 
-    <item> Palau +680 </ item> 
-    <item> Solomon Islands +677 </ item> 
-    <item> Samoa +685 </ item> 
-    <item> Tonga +676 </ item> 
-    <item> Turks and Caicos Islands +1649 </ item> 
-    <item> Vanuatu +678 </ item> 
-    <item> Guatemala +502 </ item> 
-    <item> New Caledonia +687 </ item> 
-    <item> New Zealand +64 </ item> 
-    <item> Jamaica +1876 </ item> 
-    <item> British Virgin Islands +1284 </ item>
-    </string-array>
-    <string-array name="america">
+        </string-array>
+        <string-array name="oceanica">
+        <item> Australia +61 </ item> 
+        <item> Papua New Guinea +675 </ item> 
+        <item> Nauru +674 </ item> 
+        <item> Palau +680 </ item> 
+        <item> Solomon Islands +677 </ item> 
+        <item> Samoa +685 </ item> 
+        <item> Tonga +676 </ item> 
+        <item> Turks and Caicos Islands +1649 </ item> 
+        <item> Vanuatu +678 </ item> 
+        <item> Guatemala +502 </ item> 
+        <item> New Caledonia +687 </ item> 
+        <item> New Zealand +64 </ item> 
+        <item> Jamaica +1876 </ item> 
+        <item> British Virgin Islands +1284 </ item>
+        </string-array>
+        <string-array name="america">
         <item> Argentina +54 </ item>
         <item> Aruba +297 </ item>
         <item> Antigua and Barbuda +1268 </ item>
