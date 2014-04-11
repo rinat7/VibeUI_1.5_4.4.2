@@ -157,18 +157,18 @@
         <item>UIM Card</item>
     </string-array>
     <string-array name="State">
-        <item>港澳台地区</item>
-        <item>亚洲</item>
-        <item>欧洲</item>
-        <item>非洲</item>
-        <item>中美洲</item>
-        <item>大洋洲</item>
-        <item>美洲</item>
+        <item>Hong Kong, Macao and Taiwan regions</item>
+        <item>Asia</item>
+        <item>Europe</item>
+        <item>Africa</item>
+        <item>Central America</item>
+        <item>Oceania</item>
+        <item>America</item>
     </string-array>
     <string-array name="gat">
-        <item>澳门 +853</item>
-        <item>台湾 +886</item>
-        <item>香港 +852</item>
+        <item>Macao +853</item>
+        <item>Taiwan +886</item>
+        <item>Hong Kong +852</item>
     </string-array>
     <string-array name="asia">
         <item>尼泊尔 +977</item>
