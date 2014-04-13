@@ -2115,12 +2115,12 @@ The latitude and longitude of your lost phone are:
     <string name="net_traffic_tip_desc">"The calibration will use data of inquiry message from carrier.
 Notice: the data may lag."</string>
     <string name="net_traffic_correct_button">Calibrate</string>
-    <string name="net_operators_u_2">联通3G</string>
-    <string name="net_operators_u_1">联通2G</string>
-    <string name="net_operators_m_1">神州行</string>
-    <string name="net_operators_m_2">全球通</string>
-    <string name="net_operators_m_3">动感地带</string>
-    <string name="net_operators_cdma">中国电信</string>
+    <string name="net_operators_u_2">Unicom3G</string>
+    <string name="net_operators_u_1">Unicom2G</string>
+    <string name="net_operators_m_1">Shenzhouxing</string>
+    <string name="net_operators_m_2">GSM</string>
+    <string name="net_operators_m_3">M-Zone</string>
+    <string name="net_operators_cdma">China Telecom</string>
     <string name="net_traffic_call_phone">Dialling to inquire data usage</string>
     <string name="one_key_widget_clean">Clean-up</string>
     <string name="autorun_dialog_never_dialog">Never prompt</string>
